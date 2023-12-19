@@ -16,7 +16,7 @@ public class Exception1 {
         {
             System.out.println("Please stay in your limit !!! \n " + e);
         }
-        catch (Exception e)
+        catch (Exception0 e)
         {
             System.out.println("Something went wrong !!!!! \n " +e);
         }
