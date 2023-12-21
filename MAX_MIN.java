@@ -39,7 +39,7 @@ arr[i]=sc.nextInt();
 }
 }
 
-public class Array2 {
+public class MAX_MIN {
     public static void main(String[] args) {
         a obj=new a();
         obj.input();
