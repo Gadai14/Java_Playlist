@@ -1,11 +1,11 @@
 import java.util.Scanner;
-class TooHot extends Exception0 {
+class TooHot extends Exception {
     TooHot(String message) {
         super(message);
     }
 }
 
-class TooCold extends Exception0 {
+class TooCold extends Exception {
     TooCold(String message) {
         super(message);
     }
